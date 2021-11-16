@@ -19,7 +19,7 @@ The source is provided in the Credit section.
 I made modifications to the code to export it.  
 
 
-# SOFTWARE*
+# SOFTWARE
 Processing : https://processing.org/  
 SolidWorks: https://www.solidworks.com/  
 

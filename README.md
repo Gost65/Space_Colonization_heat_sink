@@ -27,8 +27,10 @@ SolidWorks: https://www.solidworks.com/
 # PROBLEM
 I want to export the tree generated as an STL but I can't.  
 I cheated using boxes but I have problem with the STL file to modify it.  
-I use nervoussytem library (https://n-e-r-v-o-u-s.com/tools/obj/).  
-But it could be better to use toxiclibs (http://toxiclibs.org/docs/core/index-files/index-18.html).  
+
+# LIBRARY
+obj export: nervoussytem library (https://n-e-r-v-o-u-s.com/tools/obj/).  
+Camera: peasycam library (https://mrfeinberg.com/peasycam/).  
 
 # CREDIT
 Coding Rainbow,

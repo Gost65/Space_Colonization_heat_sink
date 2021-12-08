@@ -21,6 +21,7 @@ I made modifications to the code to export it.
 
 ## SOFTWARE
 Processing : https://processing.org/  
+Meshmixer: https://www.meshmixer.com/  
 SolidWorks: https://www.solidworks.com/  
 
 
